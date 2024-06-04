@@ -1,1 +1,5 @@
-Hello world
+Hello world!
+Take input from user 
+add the values
+
+Submit the data to the hr
